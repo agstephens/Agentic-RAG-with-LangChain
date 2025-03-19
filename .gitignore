@@ -1,2 +1,4 @@
 .env
 venv
+cf-standard-name-table.xml
+*.nc
