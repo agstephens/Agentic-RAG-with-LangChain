@@ -136,6 +136,7 @@ st.caption("""
   - Other documentation on the CF site: https://cfconventions.org
   - The Unidata NetCDF documentation: https://docs.unidata.ucar.edu/netcdf-c/current/
   - The CF GitHub Discussions: https://github.com/orgs/cf-convention/discussions
+- Add some evaluation/testing.
 """)
 
 # initialize chat history
