@@ -115,8 +115,8 @@ agent = create_tool_calling_agent(llm, tools, prompt)
 agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
 
 # initiating streamlit app
-st.set_page_config(page_title="Agentic RAG Chatbot", page_icon="🦜")
-st.title("🦜 Agentic RAG Chatbot")
+st.set_page_config(page_title="CF Chatbot", page_icon="🦜")
+st.title("� CF Chatbot (using Agentic RAG)")
 
 st.subheader("What is this chatbot?")
 st.caption("""
